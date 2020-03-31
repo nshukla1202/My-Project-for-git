@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC20-A43E
+
+ Directory of C:\Users\Neha\Desktop\Project for Git
+
+03/31/2020  05:37 AM    <DIR>          .
+03/31/2020  05:37 AM    <DIR>          ..
+03/31/2020  05:37 AM                 0 dir1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  346,364,469,248 bytes free
